@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "zeno",
+    "password": "paradox",
+    "database": "secure_node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "paradox",
+    "database": "secure_node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "paradox",
+    "database": "secure_node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
